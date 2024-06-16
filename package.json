@@ -32,7 +32,7 @@
     "fill-range": "^7.1.1"
   },
   "devDependencies": {
-    "ansi-colors": "^3.2.4",
+    "ansi-colors": "^4.0.0",
     "bash-path": "^2.0.1",
     "gulp-format-md": "^2.0.0",
     "mocha": "^6.1.1"
